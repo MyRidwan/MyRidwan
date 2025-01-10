@@ -32,7 +32,85 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
 
+# Hi there, I'm Ridwan! 👋
 
+🔭 I’m currently working on:
+- Improving my skills in backend development with Node.js and Express.
+- Exploring new technologies in the field of Machine Learning and AI.
+
+🌱 I’m currently learning:
+- Advanced JavaScript concepts.
+- Data structures and algorithms.
+- Python for data analysis and machine learning.
+
+👯 I’m looking to collaborate on:
+- Open-source projects related to web development and machine learning.
+- Hackathons and coding competitions.
+
+💬 Ask me about:
+- JavaScript, Node.js, Express, and MongoDB.
+- Python for web scraping and data analysis.
+- Best practices in software development.
+
+📫 How to reach me:
+- Email: myridwan@example.com
+- LinkedIn: [linkedin.com/in/myridwan](https://www.linkedin.com/in/myridwan)
+- Twitter: [@MyRidwan](https://twitter.com/MyRidwan)
+
+⚡ Fun fact:
+- I love solving puzzles and playing chess in my free time.
+
+---
+
+### 📊 GitHub Stats
+
+![MyRidwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyRidwan&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MyRidwan&theme=radical)
+
+### 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MyRidwan&theme=radical)
+
+---
+
+### 🧰 Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
+---
+
+### 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Optimize Your JavaScript Code for Better Performance](https://dev.to/myridwan/optimize-your-javascript-code)
+- [Getting Started with Node.js and Express](https://dev.to/myridwan/getting-started-with-nodejs-and-express)
+- [An Introduction to Machine Learning with Python](https://dev.to/myridwan/introduction-to-machine-learning)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](https://dev.to/myridwan)
+
+---
+
+### 🎮 Hobbies and Interests
+
+- Playing chess and solving puzzles.
+- Reading books on technology and science fiction.
+- Traveling and exploring new places.
+- Cooking and trying out new recipes.
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to chat. 😊
 
 
 
